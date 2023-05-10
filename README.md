@@ -1,3 +1,5 @@
+## React Study 2(shopping mall)
+본 프로젝트는 리액트 공부목적으로 만들어진 간단한 쇼핑몰입니다.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
